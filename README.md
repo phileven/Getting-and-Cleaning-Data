@@ -5,7 +5,7 @@ Programming Assignment of Coursera's Data Science Course
 This R script was written during the programming assignment of the coursera course "Getting and Cleaning Data". It gets and cleans the "Human Activity Recognition Using Smartphones Data Set" from the Machine Learning Repository of the UC Irvine.
 
 
-The packages "data.table" and "plysr" are required to run this script. 
+The packages "data.table" and "plyr" are required to run this script. 
 
 The script run_analysis.R does the following:
 
